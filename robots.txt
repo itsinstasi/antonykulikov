@@ -1,2 +1,2 @@
 ﻿User-agent: *
-Sitemap: https://itsinstasi.github.io/antonykulikov//sitemap.xml
+Sitemap: http://itsinstasi.github.io/antonykulikov//sitemap.xml
