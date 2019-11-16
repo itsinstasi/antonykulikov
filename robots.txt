@@ -1,2 +1,6 @@
 ﻿User-agent: *
-Sitemap: http://itsinstasi.github.io/antonykulikov//sitemap.xml
+Sitemap: http://itsinstasi.github.io/antonykulikov/sitemap.xml
+Disallow: /main.html
+Disallow: /main
+Disallow: /stories.html
+Disallow: /stories
