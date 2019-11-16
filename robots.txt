@@ -1,5 +1,5 @@
 ﻿User-agent: *
-Sitemap: http://itsinstasi.github.io/antonykulikov/sitemap.xml
+Sitemap: https://antonykulikov.itsinsta.site/sitemap.xml
 Disallow: /main.html
 Disallow: /main
 Disallow: /stories.html
